@@ -1,10 +1,10 @@
 # BI Analyst
 
 ### Education
-BI Analyst, Certificate 
-Curriculum Instruction & Technology, MS
-Music Business, MBEI
-Computer Studies, BS 
+- BI Analyst, Certificate 
+- Curriculum Instruction & Technology, MS
+- Music Business, MBEI
+- Computer Studies, BS 
 
 ### Work Experience
 BI Analyst @ TripleTen 
@@ -14,4 +14,10 @@ BI Analyst @ TripleTen
 - Superstore Tableau Visualzation
 
 ### Projects
-**Advanced Spreadsheets** 
+**Advanced Spreadsheets**
+**Data Collection & Storage (SQL)**
+**Business Analytics**
+**Data Visualzation**
+**Data Storytelling**
+**Power BI**
+
