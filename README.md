@@ -10,7 +10,7 @@ Python, SQL, Excel, Tableau, Power BI
 - BS, Computer Studies (July 2016) 
 
 ### Experience
-BI Analyst @ TripleTen - Internship 
+BI Analyst Trainee @ TripleTen 
 - During my time in the Business Intelligence Analyst program at TripleTen, I honed my analytical and problem-solving skills, gaining proficiency in key tools such as SQL, Python, Excel, Tableau, and Power BI. This program provided me with the technical and business acumen needed to translate complex datasets into actionable insights that drive strategic decision-making.
 
 ### Key Projects
@@ -32,8 +32,22 @@ BI Analyst @ TripleTen - Internship
 **Superstore Tableau Visualzation**
 - Used Tableau to create a series of data visualizations to increase a superstore’s profitability and avoid bankruptcy. Transformed complex data into intuitive visual insights that guided executive decision-making, focusing on profit and loss centers, ad spending, ROI, and average return rate.
 
-  [(View Project Here](https://public.tableau.com/views/SavingSuperstoreProject_SNwigwe/ProfitLossbyRegionSubcategory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  [(View Project Here)](https://public.tableau.com/views/SavingSuperstoreProject_SNwigwe/ProfitLossbyRegionSubcategory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
-**Data Storytelling**
+**Superstore Returns Analysis**
+
+ This project involves an in-depth analysis of product returns for a fictional retail company using Tableau. The analysis focuses on identifying key patterns and root causes of returns across different product categories, customers, and geographic regions. The project includes several key components:
+
+- Data Visualization: Created a series of dashboards and visualizations, including scatterplots, bar charts, and tree maps, to illustrate the relationship between sales and returns, identify high-risk categories, and analyze return rates by customer and region.
+
+- Root Cause Analysis: Identified potential root causes of returns, such as product quality issues and persistent customer dissatisfaction, through interactive maps and filters.
+
+- Actionable Insights: Provided recommendations based on the analysis, such as targeted follow-ups with specific customers and improvements in product quality and service.
+
+- Storytelling: Developed a cohesive narrative that guides stakeholders through the analysis, culminating in a set of proposed actions to reduce return rates and improve customer satisfaction.
+
+- The full analysis is presented in a Tableau story, available as a PDF and on Tableau Public.
+
+  [(View Project Here)](https://public.tableau.com/views/SuperstoreReturnsWorkbook/TotalSalesvsTotalReturnsbySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Power BI**
