@@ -7,7 +7,13 @@ Python, SQL, Excel, Tableau, Power BI
 - Certificate, BI Analyst (September 2024)
 - MS, Curriculum Instruction & Technology (October 2021)
 - MBEI, Music Business (December 2018)
-- BS, Computer Studies (July 2016) 
+- BS, Computer Studies (July 2016)
+
+- ## Product Experiments  
+In addition to technical projects, I also document case studies from personal ventures:  
+- [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage)  
+- [Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage)  
+- [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss)  
 
 ### Experience
 BI Analyst Trainee @ TripleTen 
