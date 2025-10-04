@@ -9,7 +9,7 @@ Python, SQL, Excel, Tableau, Power BI
 - MBEI, Music Business (December 2018)
 - BS, Computer Studies (July 2016)
 
-- ## Product Experiments  
+### Product Experiments  
 In addition to technical projects, I also document case studies from personal ventures:  
 - [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage)  
 - [Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage)  
