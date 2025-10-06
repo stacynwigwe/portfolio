@@ -11,11 +11,12 @@ Python, SQL, Excel, Tableau, Power BI
 
 ### Product Experiments  
 In addition to technical projects, I also document case studies from personal ventures:  
-- [Class2Career]
-(https://github.com/stacynwigwe/product-experiments/tree/main/class2career) 
-- [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage)  
-- [The Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage)  
-- [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss)  
+also document case studies from personal ventures:
+
+- [Class2Career](https://github.com/stacynwigwe/product-experiments/tree/main/class2career)
+- [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage)
+- [The Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage)
+- [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss)
 
 ### Experience
 BI Analyst Trainee @ TripleTen 
