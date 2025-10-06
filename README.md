@@ -10,7 +10,7 @@ Python, SQL, Excel, Tableau, Power BI
 - BS, Computer Studies (July 2016)
 
 ### Product Experiments  
-In addition to technical projects, I also document case studies from personal ventures:  
+In addition to technical projects, I
 also document case studies from personal ventures:
 
 - [Class2Career](https://github.com/stacynwigwe/product-experiments/tree/main/class2career)
