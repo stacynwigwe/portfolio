@@ -13,10 +13,15 @@ Python, SQL, Excel, Tableau, Power BI
 In addition to technical projects, I
 also document case studies from personal ventures:
 
-- [Class2Career](https://github.com/stacynwigwe/product-experiments/tree/main/class2career)
-- [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage)
-- [The Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage)
-- [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss)
+- [CLASS SQL Framework](https://github.com/stacynwigwe/product-experiments/tree/main/class-sql-framework) — A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts. Inspired by classroom frameworks, it bridges business questions and database logic for clear, actionable insights.
+
+- [Class2Career](https://github.com/stacynwigwe/product-experiments/tree/main/class2career) — A roadmap designed to help educators transition into data and tech careers by turning classroom experience into measurable, marketable skills.
+
+- [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage) — A reflective storytelling project that blends creativity, healing, and system thinking through poetic narratives and visual design.
+
+- [The Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage) — A consultancy concept focused on digital systems, automation, and client data visibility to improve business workflows and strategy.
+
+- [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss) — A vending and retail concept experiment combining business analytics, branding, and consumer insights to explore small-scale automation and profit modeling.
 
 ### Experience
 BI Analyst Trainee @ TripleTen 
