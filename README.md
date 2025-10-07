@@ -1,4 +1,4 @@
-# BI Analyst
+# Data + Business Analyst
 
 ### Technical Skills
 Python, SQL, Excel, Tableau, Power BI
