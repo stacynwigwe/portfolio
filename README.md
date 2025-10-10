@@ -1,3 +1,7 @@
+---
+layout: default
+title: Portfolio
+---
 # Data + Strategy Portfolio
 
 ### Technical Skills
