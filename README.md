@@ -1,3 +1,6 @@
+
+layout: default
+title: Portfolio
 ---
 # Data + Strategy Portfolio
 
