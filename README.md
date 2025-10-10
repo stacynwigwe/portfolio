@@ -1,4 +1,4 @@
-
+---
 ## Data + Strategy Portfolio
 
 ### Technical Skills
