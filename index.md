@@ -11,6 +11,6 @@ Whether it’s designing dashboards, improving processes, or exploring product i
 
 **Explore:**  
 - [Main Data Projects Hub](./projects) – Technical & business analytics projects.  
-- [Product Experiments](https://stacynwigwe.github.io/product-experiments/) – Case studies blending product strategy + behavioral insight.  
+- [Product Experiments](https://stacynwigwe.github.io/product-experiments/) – Case studies blending product strategy, behavioral insight, and writing samples.  
 
 > “Whatever you do, work at it with all your heart…” — Colossians 3:23
