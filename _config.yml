@@ -1,3 +1,5 @@
-title: Stacy Nwigwe Portfolio
-description: Showcase of data, systems, and storytelling projects.
-theme: modernist  
+title: Stacy Nwigwe
+description: Portfolio — data, product, and systems work.
+theme: jekyll-theme-minimal
+baseurl: ""        # user site stays empty
+url: "https://stacynwigwe.github.io"
