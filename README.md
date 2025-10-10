@@ -25,7 +25,7 @@ In addition to technical projects, I document case studies from personal venture
 
 - [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss) — A vending and retail concept experiment combining business analytics, branding, and consumer insights to explore small-scale automation and profit modeling.
 
-### Experience
+### BI + Data Project Experience
 BI Analyst Trainee @ TripleTen 
 - During my time in the Business Intelligence Analyst program at TripleTen, I honed my analytical and problem-solving skills, gaining proficiency in key tools such as SQL, Python, Excel, Tableau, and Power BI. This program provided me with the technical and business acumen needed to translate complex datasets into actionable insights that drive strategic decision-making.
 
