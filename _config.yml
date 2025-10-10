@@ -1,5 +1,4 @@
-title: Stacy Nwigwe
-description: Portfolio — data, product, and systems work.
+title: Stacy Nwigwe | Portfolio
 theme: jekyll-theme-minimal
-baseurl: ""        # user site stays empty
 url: "https://stacynwigwe.github.io"
+baseurl: "/portfolio"
