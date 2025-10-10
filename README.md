@@ -12,7 +12,7 @@ Python, SQL, Excel, Tableau, Power BI
 ### Product Experiments  
 In addition to technical projects, I
 also document case studies from personal ventures:
--  [**Building Capacity for Curriculum Change**](writing-samples/curriculum_implementation_summary.md) — A strategic writing experiment exploring how clear communication, stakeholder engagement, and implementation frameworks (like Kotter’s model) can transform curriculum initiatives from compliance tasks into sustainable systems for growth.
+-  [**Building Capacity for Curriculum Change**](https://github.com/stacynwigwe/product-experiments/tree/main/writing-samples/curriculum_implementation_summary.md) — A strategic writing experiment exploring how clear communication, stakeholder engagement, and implementation frameworks (like Kotter’s model) can transform curriculum initiatives from compliance tasks into sustainable systems for growth.
 
 - [CLASS SQL Framework](https://github.com/stacynwigwe/product-experiments/tree/main/class-sql-framework) — A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts. Inspired by classroom frameworks, it bridges business questions and database logic for clear, actionable insights.
 
