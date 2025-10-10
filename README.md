@@ -14,21 +14,15 @@ Python, SQL, Excel, Tableau, Power BI
 - MBEI, Music Business (December 2018)
 - BS, Computer Studies (July 2016)
 
-### [Product Experiments](https://stacynwigwe.github.io/product-experiments/)
+## 🧩 Product Experiments (Highlights)
 
-In addition to technical projects, I document case studies from personal ventures that explore how data, systems, and storytelling intersect to create meaningful impact:
+In addition to technical and analytics projects, I explore **systems thinking, storytelling,** and **product strategy** through independent experiments. These projects reflect how I connect creativity with data-driven insight.
 
-- [Building Capacity for Curriculum Change](https://github.com/stacynwigwe/product-experiments/tree/main/writing-samples/curriculum_implementation_summary.md) — A strategic writing experiment exploring how clear communication, stakeholder engagement, and implementation frameworks (like Kotter’s model) can transform curriculum initiatives from compliance tasks into sustainable systems for growth.
+- **[CLASS SQL Framework](https://stacynwigwe.github.io/product-experiments/class-sql-framework)** — A 5-step framework designed to make SQL querying and interpretation more intuitive for educators and analysts, bridging business questions with database logic for clear, actionable insights.  
+- **[Class2Career](https://stacynwigwe.github.io/product-experiments/class2career)** — A roadmap helping educators transition into data and tech careers by translating classroom experience into measurable, marketable skills.  
+- **[Snack Boss](https://stacynwigwe.github.io/product-experiments/snack-boss)** — A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
 
-- [CLASS SQL Framework](https://github.com/stacynwigwe/product-experiments/tree/main/class-sql-framework) — A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts. Inspired by classroom frameworks, it bridges business questions and database logic for clear, actionable insights.
-
-- [Class2Career](https://github.com/stacynwigwe/product-experiments/tree/main/class2career) — A roadmap designed to help educators transition into data and tech careers by turning classroom experience into measurable, marketable skills.
-
-- [The Poetic Sage](https://github.com/stacynwigwe/product-experiments/tree/main/poetic-sage) — A reflective storytelling project that blends creativity, healing, and system thinking through poetic narratives and visual design.
-
-- [The Virtual Sage](https://github.com/stacynwigwe/product-experiments/tree/main/virtual-sage) — A consultancy concept focused on digital systems, automation, and client data visibility to improve business workflows and strategy.
-
-- [Snack Boss](https://github.com/stacynwigwe/product-experiments/tree/main/snack-boss) — A vending and retail concept experiment combining business analytics, branding, and consumer insights to explore small-scale automation and profit modeling.
+➡️ **[Explore all Product Experiments →](https://stacynwigwe.github.io/product-experiments/)**
 
 ### BI + Data Project Experience
 BI Analyst Trainee @ TripleTen 
