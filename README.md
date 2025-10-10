@@ -1,8 +1,5 @@
 
-layout: default
-title: Portfolio
----
-# Data + Strategy Portfolio
+## Data + Strategy Portfolio
 
 ### Technical Skills
 Python, SQL, Excel, Tableau, Power BI
