@@ -3,8 +3,6 @@ layout: default
 title: Portfolio
 ---
 
-# Stacy Nwigwe
-
 Welcome to my portfolio — where I connect data, product, and storytelling through systems thinking.
 
 Explore:
