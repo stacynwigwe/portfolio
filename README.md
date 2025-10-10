@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data + Strategy Portfolio
-permalink: /projects/
+permalink: /portfolio/projects/
 ---
 ## Data + Strategy Portfolio
 
