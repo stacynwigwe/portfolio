@@ -9,6 +9,6 @@ Welcome to my portfolio — where I connect data, product, and storytelling thro
 
 Explore:
 - [Product Experiments](https://stacynwigwe.github.io/product-experiments/)
-- [Main Hub](https://stacynwigwe.github.io)
+- [Main Data Projects Hub](https://stacynwigwe.github.io)
 
 > “Whatever you do, work at it with all your heart…” — Colossians 3:23
