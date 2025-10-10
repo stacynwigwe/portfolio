@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Data + Strategy Portfolio
+permalink: /projects/
+---
 ## Data + Strategy Portfolio
 
 ### Technical Skills
