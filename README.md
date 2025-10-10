@@ -14,7 +14,7 @@ Python, SQL, Excel, Tableau, Power BI
 - MBEI, Music Business (December 2018)
 - BS, Computer Studies (July 2016)
 
-## 🧩 Product Experiments (Highlights)
+## Product Experiments (Highlights)
 
 In addition to technical and analytics projects, I explore **systems thinking, storytelling,** and **product strategy** through independent experiments. These projects reflect how I connect creativity with data-driven insight.
 
