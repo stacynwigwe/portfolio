@@ -11,8 +11,7 @@ Python, SQL, Excel, Tableau, Power BI
 
 ### [Product Experiments](https://stacynwigwe.github.io/product-experiments/)
 
-In addition to technical projects, I
-also document case studies from personal ventures:
+In addition to technical projects, I document case studies from personal ventures that explore how data, systems, and storytelling intersect to create meaningful impact:
 
 - [Building Capacity for Curriculum Change](https://github.com/stacynwigwe/product-experiments/tree/main/writing-samples/curriculum_implementation_summary.md) — A strategic writing experiment exploring how clear communication, stakeholder engagement, and implementation frameworks (like Kotter’s model) can transform curriculum initiatives from compliance tasks into sustainable systems for growth.
 
