@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
 
 # Stacy Nwigwe
 
-Welcome! This is my main hub. Explore:
-- **[Portfolio](/portfolio/)**  
-- **[Product Experiments](/product-experiments/)**
+Welcome to my portfolio — where I connect data, product, and storytelling through systems thinking.
+
+Explore:
+- [Product Experiments](https://stacynwigwe.github.io/product-experiments/)
+- [Main Hub](https://stacynwigwe.github.io)
 
 > “Whatever you do, work at it with all your heart…” — Colossians 3:23
