@@ -2,7 +2,7 @@
 layout: default
 title: Portfolio
 ---  
-### Portfolio 
+## Portfolio 
 Data + Strategy Analyst | Bridging Analytics + Storytelling  
 
 I build systems that make data make sense, transforming complex problems into clear strategies and meaningful outcomes.  
