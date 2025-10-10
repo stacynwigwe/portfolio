@@ -9,7 +9,8 @@ Python, SQL, Excel, Tableau, Power BI
 - MBEI, Music Business (December 2018)
 - BS, Computer Studies (July 2016)
 
-### [Product Experiments](https://github.com/stacynwigwe/product-experiments/tree/main/README.md)   
+### [Product Experiments](https://stacynwigwe.github.io/product-experiments/)
+
 In addition to technical projects, I
 also document case studies from personal ventures:
 
