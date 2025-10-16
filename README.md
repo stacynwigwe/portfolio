@@ -11,8 +11,8 @@ Python, SQL, Excel, Tableau, Power BI
 ### Education
 - Certificate, BI Analyst (September 2024)
 - MS, Curriculum Instruction & Technology (October 2021)
-- MBEI, Music Business (December 2018)
-- BS, Computer Studies (July 2016)
+- MBEI, Master of Business & Entertainment Industries (December 2018)
+- BS, Computer Information Systems (July 2016)
 
 ## Product Experiments (Highlights)
 
