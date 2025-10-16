@@ -20,6 +20,7 @@ Python, SQL, Excel, Tableau, Power BI
 
 In addition to technical and analytics projects, I explore **systems thinking, storytelling,** and **product strategy** through independent experiments. These projects reflect how I connect creativity with data-driven insight.
 
+- **[Reviving the Educator Ecosystem](https://stacynwigwe.github.io/product-experiments/reviving-educator-ecosystem/)** — A conceptual framework blending storytelling, data, and educator mentorship to strengthen community and brand trust.
 - **[CLASS SQL Framework](https://stacynwigwe.github.io/product-experiments/class-sql-framework)** — A 5-step framework designed to make SQL querying and interpretation more intuitive for educators and analysts, bridging business questions with database logic for clear, actionable insights.  
 - **[Class2Career](https://stacynwigwe.github.io/product-experiments/class2career)** — A roadmap helping educators transition into data and tech careers by translating classroom experience into measurable, marketable skills.  
 - **[Snack Boss](https://stacynwigwe.github.io/product-experiments/snack-boss)** — A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
