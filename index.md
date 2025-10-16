@@ -5,9 +5,11 @@ title: Portfolio
 ## Portfolio 
 Data + Strategy Analyst | Bridging Analytics + Storytelling  
 
-I build systems that make data make sense, transforming complex problems into clear strategies and meaningful outcomes.  
+**About**
 
-Whether it’s designing dashboards, improving processes, or exploring product ideas, I approach every project as both an analyst and a storyteller.  
+I turn ideas into impact. Whether it’s a brand, system, or story, I build the structure that helps potential grow. My work blends creativity with clarity, connecting data, design, and purpose to make complex things feel simple and human.
+
+I believe real growth happens when empathy meets execution, where vision turns into proof.
 
 **Explore:**  
 - [Main Data Projects Hub](./projects) – Technical & business analytics projects.  
