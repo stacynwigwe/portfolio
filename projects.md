@@ -41,7 +41,7 @@ Before diving into my analytics and visualization projects, I also apply systems
 
 This case study explores how I translate user needs into technology,  bridging the gap between business requirements, workflows, and technical configuration across platforms like SIS and PPM.
 
-**[System Implementation Framework →](portfolio/systems-implementation.md)**  
+**[System Implementation Framework →](systems-implementation.md)**  
 *A six-phase framework for aligning people, process, and platforms during system rollouts.*
 
 ---
