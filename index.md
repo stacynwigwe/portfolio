@@ -21,8 +21,5 @@ This portfolio is organized into two connected hubs:
 
 Together, they highlight how I connect logic with empathy, using data to inform strategy, and storytelling to inspire engagement.
 
-**Explore:**  
-- [Main Data Projects Hub](./projects) – Technical & business analytics projects.  
-- [Product Experiments](https://stacynwigwe.github.io/product-experiments/) – Case studies blending product strategy, behavioral insight, and writing samples.  
 
 > “Whatever you do, work at it with all your heart…” — Colossians 3:23
