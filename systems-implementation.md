@@ -73,18 +73,12 @@ By combining structured analysis with empathetic communication, teams gain confi
 ## Visual Concepts
 
 ### Visual 1: System Implementation Lifecycle
-*A single diagram that displays the six stages as a loop or horizontal timeline*
 
-Suggested labels  
-1. Discovery and Alignment  
-2. Current State Mapping  
-3. Future State Design  
-4. Configuration and Testing  
-5. Change Enablement and Training  
-6. Continuous Improvement
+![System Implementation Lifecycle](IMG_1708.jpeg)
 
-Place the image here once exported  
-![System Implementation Lifecycle](assets/system-implementation-lifecycle.png)
+_A single diagram that displays the six stages as a loop_
+
+---
 
 ### Visual 2: Translating Human Needs into Digital Systems
 *A two column relationship map that shows how user needs connect to system outcomes*
