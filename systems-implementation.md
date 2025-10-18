@@ -82,6 +82,6 @@ _A single diagram that displays the six stages as a loop_
 
 ### Visual 2: Translating Human Needs into Digital Systems
 
-![Translating Human Needs into Digital Systems](IMG_1712.png)
+![Translating Human Needs into Digital Systems](IMG_1713.png)
 *A two column relationship map that shows how user needs connect to system outcomes*
 
