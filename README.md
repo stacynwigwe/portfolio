@@ -3,6 +3,10 @@ layout: default
 title: Data + Strategy Portfolio
 permalink: /portfolio/projects/
 ---
+
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
+---
+
 ## Data + Strategy Portfolio
 
 ### Technical Skills
