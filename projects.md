@@ -48,7 +48,8 @@ This case study explores how I translate user needs into technology,  bridging t
 
 ### BI + Data Project Experience
 BI Analyst Trainee @ TripleTen 
-- During my time (~ 400 hours) in the Business Intelligence Analyst program at TripleTen, I honed my analytical and problem-solving skills, gaining proficiency in key tools such as SQL, Python, Excel, Tableau, and Power BI. This program provided me with the technical and business acumen needed to translate complex datasets into actionable insights that drive strategic decision-making.
+
+During my time (~ 400 hours) in the Business Intelligence Analyst program at TripleTen, I honed my analytical and problem-solving skills, gaining proficiency in key tools such as SQL, Python, Excel, Tableau, and Power BI. This program provided me with the technical and business acumen needed to translate complex datasets into actionable insights that drive strategic decision-making.
 
 ### Key Projects
 **NYC Airbnb**
