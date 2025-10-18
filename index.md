@@ -19,7 +19,7 @@ This portfolio is organized into two connected hubs:
   
 - The **[Product Experiments Hub](https://stacynwigwe.github.io/product-experiments/)**, where I translate systems thinking into product, marketing, and storytelling strategies.  
 
-Together, they highlight how I connect logic with empathy, using data to inform strategy, and storytelling to inspire engagement.
+Together, they highlight how I connect logic with empathy, using data to inform strategy and storytelling to inspire engagement.
 
 
 > “Whatever you do, work at it with all your heart…” — Colossians 3:23
