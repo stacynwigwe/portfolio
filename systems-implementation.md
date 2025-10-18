@@ -81,19 +81,7 @@ _A single diagram that displays the six stages as a loop_
 ---
 
 ### Visual 2: Translating Human Needs into Digital Systems
+
+![Translating Human Needs into Digital Systems](IMG_1712.png)
 *A two column relationship map that shows how user needs connect to system outcomes*
 
-Left side  
-* clarity  
-* efficiency  
-* simplicity  
-* trust
-
-Right side  
-* integrated workflows  
-* automation rules  
-* data accuracy  
-* adoption and satisfaction
-
-Place the image here once exported  
-![Translating Human Needs into Digital Systems](assets/user-to-system-connection-map.png)
