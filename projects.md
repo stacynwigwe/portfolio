@@ -5,16 +5,22 @@ permalink: /projects/
 ---
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
+
+---
 ## Main Data Projects Hub
 
 ### Technical Skills
 Python, SQL, Excel, Tableau, Power BI
+
+---
 
 ### Education
 - Certificate, BI Analyst (September 2024)
 - MS, Curriculum Instruction & Technology (October 2021)
 - MBEI, Master of Business in Entertainment Industries (December 2018)
 - BS, Computer Information Systems (July 2016)
+
+---
 
 ## Product Experiments (Highlights)
 
@@ -26,6 +32,8 @@ In addition to technical and analytics projects, I explore **systems thinking, s
 - **[Snack Boss](https://stacynwigwe.github.io/product-experiments/snack-boss)** — A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
 
 ➡️ **[Explore all Product Experiments →](https://stacynwigwe.github.io/product-experiments/)**
+
+---
 
 ### Enterprise Systems + Implementation Strategy
 
