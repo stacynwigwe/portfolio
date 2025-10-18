@@ -7,7 +7,7 @@ permalink: /portfolio/projects/
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
 
-## Main Data Hub
+## Main Data Projects Hub
 
 ### Technical Skills
 Python, SQL, Excel, Tableau, Power BI
