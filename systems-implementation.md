@@ -14,6 +14,10 @@ tags:
   - Portfolio Project
 ---
 
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
+---
+🔙 **Return to [Main Data Projects Hub](https://stacynwigwe.github.io/portfolio/projects/)**  
+
 # System Implementation Framework: Translating User Needs into Technology
 
 ## Project Overview
