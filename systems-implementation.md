@@ -103,9 +103,3 @@ Right side
 
 Place the image here once exported  
 ![Translating Human Needs into Digital Systems](assets/user-to-system-connection-map.png)
-
-## Where This Lives
-This project belongs in the Main Data Projects Hub under Enterprise Systems and Implementation Strategy. If you later add a story about change enablement, cross link it in the Product Experiments Hub.
-
-## Résumé Echo
-*Developed a reusable system implementation framework to align user workflows, business requirements, and data integrity across SIS and PPM platforms. Led discovery, mapping, future state design, UAT, and change enablement to improve adoption and reduce rework.*
