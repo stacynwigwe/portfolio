@@ -28,9 +28,22 @@ In addition to technical and analytics projects, I explore **systems thinking, s
 
 ➡️ **[Explore all Product Experiments →](https://stacynwigwe.github.io/product-experiments/)**
 
+---
+
+### Enterprise Systems + Implementation Strategy
+
+Before diving into my analytics and visualization projects, I also apply systems thinking to enterprise-scale environments.  
+
+This case study explores how I translate user needs into technology,  bridging the gap between business requirements, workflows, and technical configuration across platforms like SIS and PPM.
+
+**[System Implementation Framework →](portfolio/systems-implementation.md)**  
+*A six-phase framework for aligning people, process, and platforms during system rollouts.*
+
+---
+
 ### BI + Data Project Experience
 BI Analyst Trainee @ TripleTen 
-- During my time in the Business Intelligence Analyst program at TripleTen, I honed my analytical and problem-solving skills, gaining proficiency in key tools such as SQL, Python, Excel, Tableau, and Power BI. This program provided me with the technical and business acumen needed to translate complex datasets into actionable insights that drive strategic decision-making.
+During my time in the Business Intelligence Analyst program at TripleTen, I honed my analytical and problem-solving skills, gaining proficiency in key tools such as **SQL, Python, Excel, Tableau,** and **Power BI.** This program provided me with the technical and business acumen needed to translate complex datasets into actionable insights that drive strategic decision-making.
 
 ### Key Projects
 **NYC Airbnb**
