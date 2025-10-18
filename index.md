@@ -15,9 +15,9 @@ I believe real growth happens when empathy meets execution, where vision turns i
 
 This portfolio is organized into two connected hubs:  
 
-- The **Main Data Projects Hub**, where I explore analytics, BI, and data storytelling through dashboards, SQL frameworks, and business intelligence use cases.
+- The **[Main Data Projects Hub](./projects)**, where I explore analytics, BI, and data storytelling through dashboards, SQL frameworks, and business intelligence use cases.
   
-- The **Product Experiments Hub**, where I translate systems thinking into product, marketing, and storytelling strategies.  
+- The **[Product Experiments Hub](https://stacynwigwe.github.io/product-experiments/)**, where I translate systems thinking into product, marketing, and storytelling strategies.  
 
 Together, they highlight how I connect logic with empathy, using data to inform strategy, and storytelling to inspire engagement.
 
