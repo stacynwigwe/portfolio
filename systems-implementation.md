@@ -28,7 +28,7 @@ The framework shows how complex implementations can become intuitive, human cent
 ---
 
 ## The Challenge
-Many system implementations fail not because the technology is flawed but because users do not feel supported in how the system serves daily work. Inconsistent processes, unclear ownership, and limited training introduce friction that slows adoption.
+Many system implementations fail not because the technology is flawed but because users don't feel supported in how the system serves daily work. Inconsistent processes, unclear ownership, and limited training introduce friction that slows adoption.
 
 This project explores a practical approach that ensures
 * user needs drive configuration decisions
@@ -54,7 +54,7 @@ This project explores a practical approach that ensures
 
 ### 3. Future State Design
 * Design optimized workflows aligned with technology capabilities and organizational goals  
-* Draft user stories and swimlane diagrams that connect user experience to system logic
+* Draft user stories and diagrams that connect user experience to system logic
 
 ---
 
