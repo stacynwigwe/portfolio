@@ -70,6 +70,9 @@ This project explores a practical approach that ensures
 * Establish feedback loops during pilot phases to surface early friction  
 * Adjust training based on adoption signals and help desk patterns
 
+> *Want to see how this framework scales at an organizational level?*  
+> Explore the [Organizational Readiness Framework →](portfolio/organizational-readiness)
+
 ---
 
 ### 6. Continuous Improvement
