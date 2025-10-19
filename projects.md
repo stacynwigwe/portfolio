@@ -23,6 +23,13 @@ Python, SQL, Excel, Tableau, Power BI
 - MBEI, Master of Business in Entertainment Industries (December 2018)
 - BS, Computer Information Systems (July 2016)
 
+### Certifications & Technical Training
+
+- TripleTen Business Intelligence Analyst Certification
+- ClickUp Workspace Administrator Certification   
+- Microsoft Dynamics 365 ERP Fundamentals (Finance & Operations) *in progress* 
+- HubSpot Email Marketing Certification 
+  
 ---
 
 _You'll find that each project featured in this portfolio reflects a different layer of systems thinking: 
