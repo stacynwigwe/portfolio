@@ -18,17 +18,15 @@ Python, SQL, Excel, Tableau, Power BI
 ---
 
 ### Education
-- Certificate, BI Analyst (September 2024)
-- MS, Curriculum Instruction & Technology (October 2021)
-- MBEI, Master of Business in Entertainment Industries (December 2018)
-- BS, Computer Information Systems (July 2016)
-
-### Certifications & Technical Training
 
 - TripleTen Business Intelligence Analyst Certification
 - ClickUp Workspace Administrator Certification   
 - Microsoft Dynamics 365 ERP Fundamentals (Finance & Operations) *in progress* 
-- HubSpot Email Marketing Certification 
+- HubSpot Email Marketing Certification
+- EdS, Curriculum Instruction Management & Administration
+- MS, Curriculum Instruction & Technology (October 2021)
+- MBEI, Master of Business in Entertainment Industries (December 2018)
+- BS, Computer Information Systems (July 2016)
   
 ---
 
