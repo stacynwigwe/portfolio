@@ -73,7 +73,7 @@ The introduction of the Field Experience Readiness page within the SIS was desig
 The initiative increased student confidence and self-management, reducing delays caused by missed prerequisites and fostering more proactive planning behavior.  
 Mentors reported smoother term transitions, while students expressed greater ownership over their academic and field experience milestones.
 
-By using a structured readiness framework rooted in empathy and communication, this project turned a system update into a meaningful shift in user behavior—strengthening trust between students, mentors, and institutional leadership.
+By using a structured readiness framework rooted in empathy and communication, this project turned a system update into a meaningful shift in user behavior, strengthening trust between students, mentors, and institutional leadership.
 
 ---
 
