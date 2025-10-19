@@ -65,9 +65,7 @@ Together, these systems-focused projects illustrate how I approach transformatio
 
 ---
 
-The next section highlights how I translate that same systems thinking into data, turning information into insight through applied analytics.
-
----
+This next section highlights how I translate that same systems thinking into data, turning information into insight through applied analytics.
 
 ### BI + Data Project Experience
 BI Analyst Trainee @ TripleTen 
