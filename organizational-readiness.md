@@ -81,8 +81,7 @@ By using a structured readiness framework rooted in empathy and communication, t
 
 ### Visual 1: Organizational Readiness Lifecycle
 
-![Organizational Readiness Lifecycle](portfolio/IMG_1708.jpeg)
-
+![Organizational Readiness Lifecycle](portfolio/systems-implementation-framework.jpg)
 
 *A six-stage loop diagram illustrating readiness as an ongoing process*
 
@@ -104,12 +103,6 @@ Right side (Behavioral Outcomes)
 * Sustained adoption  
 
 ![Empowering Users Through System Transparency](assets/communication-to-adoption-map.png)
-
----
-
-## Where This Lives
-This project belongs in the Main Data Projects Hub under **Enterprise Systems and Change Enablement Strategy.**  
-It pairs directly with the **System Implementation Framework**, showing how human-centered readiness ensures successful system adoption.
 
 ---
 
