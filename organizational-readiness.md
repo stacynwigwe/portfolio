@@ -81,7 +81,7 @@ By using a structured readiness framework rooted in empathy and communication, t
 
 ### Visual 1: Organizational Readiness Lifecycle
 
-![Organizational Readiness Lifecycle](portfolio/systems-implementation-framework.jpg)
+![Organizational Readiness Lifecycle](systems-implementation-framework.jpg)
 
 *A six-stage loop diagram illustrating readiness as an ongoing process*
 
@@ -89,7 +89,7 @@ By using a structured readiness framework rooted in empathy and communication, t
 
 ### Visual 2: Empowering Users Through System Transparency
 
-![Empowering Users Through System Transparency](portfolio/IMG_1717.png)
+![Empowering Users Through System Transparency](IMG_1717.png)
 
 *A two-column map showing how communication translates into confidence and adoption*
 
