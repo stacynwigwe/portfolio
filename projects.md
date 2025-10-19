@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## Main Data Projects
 
-Welcome to my portfolio of systems, strategy, and storytelling in action.
+Welcome to my portfolio of **systems, strategy,** and **storytelling** in action.
 
 ---
 
@@ -26,7 +26,7 @@ Python, SQL, Excel, Tableau, Power BI
 ---
 
 _You'll find that each project featured in this portfolio reflects a different layer of systems thinking: 
-from building ideas → to building systems → to building people → to building insights._
+from_ **_building ideas → to building systems → to building people → to building insights._**
 
 _Together, they tell a story of how thoughtful structure transforms both technology and behavior._
 
