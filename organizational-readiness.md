@@ -92,8 +92,3 @@ By using a structured readiness framework rooted in empathy and communication, t
 ![Empowering Users Through System Transparency](IMG_1717.png)
 
 *A two-column map showing how communication translates into confidence and adoption*
-
----
-
-## Résumé Echo
-*Led organizational readiness and change enablement efforts for a new SIS feature rollout, preparing students for self-directed field experience tracking through structured communication, training, and adoption support. Applied a six-step framework to improve transparency, confidence, and system utilization across the learner population.*
