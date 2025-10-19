@@ -88,21 +88,10 @@ By using a structured readiness framework rooted in empathy and communication, t
 ---
 
 ### Visual 2: Empowering Users Through System Transparency
+
+![Empowering Users Through System Transparency](portfolio/IMG_1717.png)
+
 *A two-column map showing how communication translates into confidence and adoption*
-
-Left side (Communication Strategies)  
-* Early awareness campaigns  
-* Guided training sessions  
-* Feedback loops  
-* Mentorship support  
-
-Right side (Behavioral Outcomes)  
-* Transparency and trust  
-* Increased readiness  
-* Proactive planning  
-* Sustained adoption  
-
-![Empowering Users Through System Transparency](assets/communication-to-adoption-map.png)
 
 ---
 
