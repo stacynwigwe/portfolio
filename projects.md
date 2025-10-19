@@ -6,8 +6,11 @@ permalink: /projects/
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
 
+## Main Data Projects
+
+Welcome to my portfolio of systems, strategy, and storytelling in action.
+
 ---
-## Main Data Projects Hub
 
 ### Technical Skills
 Python, SQL, Excel, Tableau, Power BI
@@ -22,6 +25,13 @@ Python, SQL, Excel, Tableau, Power BI
 
 ---
 
+_You'll find that each project featured in this portfolio reflects a different layer of systems thinking: 
+from building ideas → to building systems → to building people → to building insights._
+
+_Together, they tell a story of how thoughtful structure transforms both technology and behavior._
+
+---
+
 ## Product Experiments (Highlights)
 
 In addition to technical and analytics projects, I explore **systems thinking, storytelling,** and **product strategy** through independent experiments. These projects reflect how I connect creativity with data-driven insight.
@@ -31,7 +41,7 @@ In addition to technical and analytics projects, I explore **systems thinking, s
 - **[Class2Career](https://stacynwigwe.github.io/product-experiments/class2career)** — A roadmap helping educators transition into data and tech careers by translating classroom experience into measurable, marketable skills.  
 - **[Snack Boss](https://stacynwigwe.github.io/product-experiments/snack-boss)** — A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
 
-➡️ **[Explore all Product Experiments →](https://stacynwigwe.github.io/product-experiments/)**
+➡️ **[Explore all Product Experiments Here →](https://stacynwigwe.github.io/product-experiments/)**
 
 ---
 
@@ -43,6 +53,20 @@ This case study explores how I translate user needs into technology,  bridging t
 
 **[System Implementation Framework →](systems-implementation.md)**  
 *A six-phase framework for aligning people, process, and platforms during system rollouts.*
+
+Following the System Implementation Framework, this next case study shifts focus from system design to user adoption. Change enablement is just as critical as configuration, it’s where strategy meets behavior. 
+
+This project explores how I helped prepare learners for organizational change by developing a framework that aligns communication, training, and readiness planning to drive confident adoption across teams.
+
+**[Organizational Readiness Framework →](portfolio/organizational-readiness.md)**
+
+*A people-centered approach to empowering users through system change.*
+
+Together, these systems-focused projects illustrate how I approach transformation from both a structural and human perspective.  
+
+---
+
+The next section highlights how I translate that same systems thinking into data, turning information into insight through applied analytics.
 
 ---
 
