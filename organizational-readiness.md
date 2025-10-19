@@ -13,7 +13,7 @@ This case study demonstrates how structured communication and change enablement 
 
 Drawing from my work in higher education student success, I developed an **_Organizational Readiness Framework_** to prepare student-teachers, our end users, for a major update in the Student Information System (Banner) that introduced a self-service “What-If Analysis” and Field Experience Checklist.
 
-The initiative aimed to improve **transparency, engagement, and ownership** for students completing field experience requirements, while aligning stakeholders across advising, IT, and program leadership.
+The initiative aimed to improve **transparency, engagement,** and **ownership** for students completing field experience requirements, while aligning stakeholders across advising, IT, and program leadership.
 
 ---
 
@@ -21,7 +21,7 @@ The initiative aimed to improve **transparency, engagement, and ownership** for 
 Students often reached the final stage of their programs underprepared for fieldwork due to limited visibility into prerequisites such as certification exams, background checks, and fingerprinting.  
 This lack of clarity caused delays in graduation and frustration among both students and mentors.
 
-The introduction of the **Field Experience Readiness Checklist** within the SIS was designed to solve this, but success depended on more than technology. It required proactive communication, user education, and guided adoption.
+The introduction of the Field Experience Readiness page within the SIS was designed to solve this, but success depended on more than technology. It required proactive communication, user education, and guided adoption.
 
 ---
 
@@ -43,7 +43,7 @@ The introduction of the **Field Experience Readiness Checklist** within the SIS 
 
 ### 3. Future State Design
 * Designed a readiness model that embedded proactive communication earlier in the program lifecycle.  
-* Helped outline mentor talking points and visuals for walking students through the new checklist.  
+* Helped outline mentor talking points and visuals for walking students through the new page/checklist.  
 * Collaborated with cross-functional teams to ensure consistent messaging across emails, calls, and student portals.
 
 ---
@@ -70,7 +70,7 @@ The introduction of the **Field Experience Readiness Checklist** within the SIS 
 ---
 
 ## Outcome
-The initiative increased **student confidence and self-management**, reducing delays caused by missed prerequisites and fostering more proactive planning behavior.  
+The initiative increased student confidence and self-management, reducing delays caused by missed prerequisites and fostering more proactive planning behavior.  
 Mentors reported smoother term transitions, while students expressed greater ownership over their academic and field experience milestones.
 
 By using a structured readiness framework rooted in empathy and communication, this project turned a system update into a meaningful shift in user behavior—strengthening trust between students, mentors, and institutional leadership.
