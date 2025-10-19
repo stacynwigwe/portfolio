@@ -59,7 +59,6 @@ Following the System Implementation Framework, this next case study shifts focus
 This project explores how I helped prepare learners for organizational change by developing a framework that aligns communication, training, and readiness planning to drive confident adoption across teams.
 
 **[Organizational Readiness Framework →](portfolio/organizational-readiness.md)**
-
 *A people-centered approach to empowering users through system change.*
 
 Together, these systems-focused projects illustrate how I approach transformation from both a structural and human perspective.  
