@@ -36,10 +36,10 @@ _Together, they tell a story of how thoughtful structure transforms both technol
 
 In addition to technical and analytics projects, I explore **systems thinking, storytelling,** and **product strategy** through independent experiments. These projects reflect how I connect creativity with data-driven insight.
 
-- **[Reviving the Educator Ecosystem](https://stacynwigwe.github.io/product-experiments/reviving-educator-ecosystem/)** — A conceptual framework blending storytelling, data, and educator mentorship to strengthen community and brand trust.
-- **[CLASS SQL Framework](https://stacynwigwe.github.io/product-experiments/class-sql-framework)** — A 5-step framework designed to make SQL querying and interpretation more intuitive for educators and analysts, bridging business questions with database logic for clear, actionable insights.  
-- **[Class2Career](https://stacynwigwe.github.io/product-experiments/class2career)** — A roadmap helping educators transition into data and tech careers by translating classroom experience into measurable, marketable skills.  
-- **[Snack Boss](https://stacynwigwe.github.io/product-experiments/snack-boss)** — A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
+- **[Reviving the Educator Ecosystem →](https://stacynwigwe.github.io/product-experiments/reviving-educator-ecosystem/)** A conceptual framework blending storytelling, data, and educator mentorship to strengthen community and brand trust.
+- **[CLASS SQL Framework →](https://stacynwigwe.github.io/product-experiments/class-sql-framework)** A 5-step framework designed to make SQL querying and interpretation more intuitive for educators and analysts, bridging business questions with database logic for clear, actionable insights.  
+- **[Class2Career →](https://stacynwigwe.github.io/product-experiments/class2career)** A roadmap helping educators transition into data and tech careers by translating classroom experience into measurable, marketable skills.  
+- **[Snack Boss →](https://stacynwigwe.github.io/product-experiments/snack-boss)** A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
 
 ➡️ **[Explore all Product Experiments Here →](https://stacynwigwe.github.io/product-experiments/)**
 
@@ -77,7 +77,7 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 - Leveraged advanced spreadsheet skills to cleanse and analyze vacation rental data, identifying the most profitable neighborhoods and property types for vacation rentals. Utilized pivot tables and aggregate functions to provide actionable investment recommendations. 
 - Transformed and filtered data by using aggregating and filtering functions to improve the reporting process.
 
-  **([View Project Here](https://docs.google.com/spreadsheets/d/1KbptNTIX6NEWx8pasCGhKxfZ9jXaGZ23P4mA7yn6xgg/edit?usp=sharing))**
+  **([→ View Project Here](https://docs.google.com/spreadsheets/d/1KbptNTIX6NEWx8pasCGhKxfZ9jXaGZ23P4mA7yn6xgg/edit?usp=sharing))**
   
 **Zuber - The Rideshare Company**
 - Applied SQL query skills to analyze large datasets from a new ride-sharing company, Zuber. Examined passenger preferences, competitor data, and the impact of weather on ride frequency, uncovering key patterns that informed strategic business decisions. 
@@ -86,12 +86,12 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 **E-Commerce Transacational Logs**
 - Analyzed raw transactional logs using Google Sheets to build a conversion funnel and conduct cohort analysis. Employed advanced spreadsheet techniques to track user activities, calculate conversion rates, and assess customer retention over time, providing insights that enhanced the company's online sales strategy.
 
-  **([View Project Here](https://docs.google.com/spreadsheets/d/1gFRJsDhPg3X-Yp5uv9BPdlb41oMOjSzPyKxR64YUFks/edit?usp=sharing))**
+  **([→ View Project Here](https://docs.google.com/spreadsheets/d/1gFRJsDhPg3X-Yp5uv9BPdlb41oMOjSzPyKxR64YUFks/edit?usp=sharing))**
   
 **Superstore Tableau Visualzation**
 - Used Tableau to create a series of data visualizations to increase a superstore’s profitability and avoid bankruptcy. Transformed complex data into intuitive visual insights that guided executive decision-making, focusing on profit and loss centers, ad spending, ROI, and average return rate.
 
-  **[(View Project Here)](https://public.tableau.com/views/SavingSuperstoreProject_SNwigwe/ProfitLossbyRegionSubcategory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+  **[(→ View Project Here)](https://public.tableau.com/views/SavingSuperstoreProject_SNwigwe/ProfitLossbyRegionSubcategory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
   
 **Superstore Returns Analysis**
 
@@ -107,6 +107,6 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 
 - The full analysis is presented in a Tableau story, available as a PDF and on Tableau Public.
 
-  **[(View Project Here)](https://public.tableau.com/views/SuperstoreReturnsWorkbook/TotalSalesvsTotalReturnsbySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+  **[(→ View Project Here)](https://public.tableau.com/views/SuperstoreReturnsWorkbook/TotalSalesvsTotalReturnsbySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Power BI**
