@@ -46,7 +46,7 @@ In addition to technical and analytics projects, I explore **systems thinking, s
 - **[Class2Career →](https://stacynwigwe.github.io/product-experiments/class2career)** A roadmap helping educators transition into data and tech careers by translating classroom experience into measurable, marketable skills.  
 - **[Snack Boss →](https://stacynwigwe.github.io/product-experiments/snack-boss)** A vending and retail analytics experiment combining business data, branding, and consumer insights to model small-scale automation and profitability.  
 
-➡️ **[Explore all Product Experiments Here →](https://stacynwigwe.github.io/product-experiments/)**
+**[Explore all Product Experiments Here →](https://stacynwigwe.github.io/product-experiments/)**
 
 ---
 
