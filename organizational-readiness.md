@@ -6,6 +6,10 @@ permalink: /portfolio/organizational-readiness
 tags: [portfolio, systems, change-enable­ment, organizational-readiness, framework, WGU, education, user-adoption]
 ---
 
+
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
+---
+🔙 **Return to [Main Data Projects Hub](https://stacynwigwe.github.io/portfolio/projects/)**
 # Organizational Readiness Framework: Preparing People for System Change
 
 ## Project Overview
