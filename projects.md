@@ -26,7 +26,7 @@ _Certifications_
 - HubSpot Email Marketing Certification (2024)
   
 _Degrees_
-- EdS, Curriculum Instruction Management & Administration
+- EdS, Education Specialist Curriculum Instruction Management & Administration
 *in progress*
 - MS, Curriculum Instruction & Technology (October 2021)
 - MBEI, Master of Music Business & Entertainment Industries (December 2018)
