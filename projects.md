@@ -19,10 +19,11 @@ Python, SQL, Excel, Tableau, Power BI
 
 ### Education
 
-- TripleTen Business Intelligence Analyst Certification (2024)
+- Microsoft Dynamics 365 ERP Fundamentals (Finance & Operations) *in progress*
 - ClickUp Workspace Administrator Certification (2025)
-- Microsoft Dynamics 365 ERP Fundamentals (Finance & Operations) *in progress* 
+- TripleTen Business Intelligence Analyst Certification (2024)
 - HubSpot Email Marketing Certification (2024)
+  
 - EdS, Curriculum Instruction Management & Administration
 *in progress*
 - MS, Curriculum Instruction & Technology (October 2021)
