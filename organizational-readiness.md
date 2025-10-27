@@ -10,7 +10,7 @@ tags: [portfolio, systems, change-enable­ment, organizational-readiness, framew
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
 🔙 **Return to [Main Data Projects Hub](https://stacynwigwe.github.io/portfolio/projects/)**
-# Organizational Readiness Framework: Preparing People for System Change
+# Educator Readiness & Success Enablement Framework, _formerly Organizational Readiness Framework (WGU)_
 
 ## Project Overview
 This case study demonstrates how structured communication and change enablement drive successful system adoption across large, distributed environments.  
