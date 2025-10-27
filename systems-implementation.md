@@ -18,7 +18,7 @@ tags:
 ---
 🔙 **Return to [Main Data Projects Hub](https://stacynwigwe.github.io/portfolio/projects/)**  
 
-# System Implementation Framework: Translating User Needs into Technology
+# District Tech Adoption & Implementation Framework, _formerly Systems Implementation Framework (BCPS)_
 
 ## Project Overview
 This case study illustrates my approach to bridging the gap between technical systems and user adoption across enterprise environments. Drawing from real world experiences in Student Information Systems and Portfolio and Project Management platforms, I developed a repeatable framework that aligns user needs, workflows, and data integrity.
