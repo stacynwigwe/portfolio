@@ -119,3 +119,18 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
   **[(→ View Project Here)](https://public.tableau.com/views/SuperstoreReturnsWorkbook/TotalSalesvsTotalReturnsbySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Power BI**
+
+---
+
+## 📫 Connect
+
+If you’d like to explore collaboration or see how these frameworks translate into organizational systems, you can reach me here:
+- 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
+- ✉️ [stacynwigwe@icloud.com](mailto:stacynwigwe@icloud.com)
+
+---
+
+> “I turn data into understanding, because clarity is how I serve.”  
+> — *Stacy Nwigwe*
+
