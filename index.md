@@ -21,5 +21,15 @@ This portfolio is organized into two connected hubs that reflect how I approach 
 
 Together, these hubs highlight how I connect logic with empathy, using data to inform strategy and systems design to make digital tools serve the people who use them.
 
+---
+
+## 📫 Connect
+
+If you’d like to explore collaboration or see how these projects translate into organizational systems, you can reach me here:
+- 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
+- ✉️ [stacynwigwe@icloud.com](mailto:stacynwigwe@icloud.com)
+
+---
 
 > “Whatever you do, work at it with all your heart…” — Colossians 3:23
