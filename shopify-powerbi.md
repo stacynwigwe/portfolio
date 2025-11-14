@@ -27,31 +27,38 @@ The goal is to identify what drives successful apps in the Shopify ecosystem.
 - Identify patterns that contribute to app quality and visibility  
 
 ---
+## Dashboard Screenshots
+
+Here are the key visuals from the Power BI Shopify App Analysis
 
 ### 1. KPI – Unique Apps Count
-![Unique Apps KPI](screenshot1.png)
+![Unique Apps Count](./screenshot-01.png)
 
 ### 2. Line Chart – Reviews Over Time
-![Reviews Over Time](screenshot2.png)
+![Reviews Over Time](./screenshot-02.png)
 
-### 3. Scatterplot – Review Count vs Avg Rating
-![Scatter: Reviews vs Ratings](screenshot3.png)
+### 3. Scatterplot – Review Count vs Average Rating
+![Review Count vs Avg Rating](./screenshot-03.png)
 
 ### 4. KPI – Helpful Reviews Score
-![Helpful Reviews Score](screenshot4.png)
+![Helpful Reviews Score](./screenshot-04.png)
 
 ### 5. Scatterplot – Developer Responsiveness
-![Developer Responsiveness](screenshot5.png)
+![Developer Responsiveness](./screenshot-05.png)
 
-### 6–8. Bar Charts – Developer Performance & Responsiveness
-![Bar Chart 1](screenshot6.png)
-![Bar Chart 2](screenshot7.png)
-![Bar Chart 3](screenshot8.png)
+### 6. Bar Chart – Developer Quality
+![Developer Quality](./screenshot-06.png)
+
+### 7. Bar Chart – Responsiveness Compared
+![Responsiveness Compared](./screenshot-07.png)
+
+### 8. Bar Chart – Developer Performance (Filtered)
+![Developer Performance](./screenshot-08.png)
 
 ---
 
 ## Files Included  
-- 8 dashboard PNG screenshots  
+- 8 dashboard screenshots  
 - README  
 
 ---
