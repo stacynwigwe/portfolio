@@ -126,7 +126,7 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 ### Power BI Project
 - **Shopify App Store Analysis**  
   A Power BI analysis of reviews, ratings, responsiveness, and performance patterns within the Shopify App Store ecosystem.  
-  [→ View Project Here](/projects/shopify/)
+  [→ View Project Here](shopify-powerbi.md)
 
 ---
 
