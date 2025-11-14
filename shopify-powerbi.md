@@ -28,14 +28,27 @@ The goal is to identify what drives successful apps in the Shopify ecosystem.
 
 ---
 
-## Visuals Included  
+## Visuals Included
 
-1. **KPI – Unique Apps Count**  
-2. **Line Chart – Reviews Over Time**  
-3. **Scatterplot – Review Count vs. Average Rating**  
-4. **KPI – Helpful Reviews Score**  
-5. **Scatterplot – Developer Responsiveness**  
-6–8. **Bar Charts – Developer Quality & Responsiveness**
+### 1. KPI – Unique Apps Count
+![Unique Apps KPI](screenshot1.png)
+
+### 2. Line Chart – Reviews Over Time
+![Reviews Over Time](screenshot2.png)
+
+### 3. Scatterplot – Review Count vs Avg Rating
+![Scatter: Reviews vs Ratings](screenshot3.png)
+
+### 4. KPI – Helpful Reviews Score
+![Helpful Reviews Score](screenshot4.png)
+
+### 5. Scatterplot – Developer Responsiveness
+![Developer Responsiveness](screenshot5.png)
+
+### 6–8. Bar Charts – Developer Performance & Responsiveness
+![Bar Chart 1](screenshot6.png)
+![Bar Chart 2](screenshot7.png)
+![Bar Chart 3](screenshot8.png)
 
 ---
 
