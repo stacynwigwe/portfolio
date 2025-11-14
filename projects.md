@@ -118,7 +118,15 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 
   **[(→ View Project Here)](https://public.tableau.com/views/SuperstoreReturnsWorkbook/TotalSalesvsTotalReturnsbySub-Category?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-**Power BI**
+### Looker Studio Project
+- **PISA Global Performance Explorer**  
+  A multi-layer dashboard analyzing global educational outcomes, gender performance, and subject-level differences using OECD PISA data.  
+  [→ View Project Here](/projects/pisa/)
+
+### Power BI Project
+- **Shopify App Store Analysis**  
+  A Power BI analysis of reviews, ratings, responsiveness, and performance patterns within the Shopify App Store ecosystem.  
+  [→ View Project Here](/projects/shopify/)
 
 ---
 
