@@ -28,8 +28,6 @@ The goal is to identify what drives successful apps in the Shopify ecosystem.
 
 ---
 
-## Visuals Included
-
 ### 1. KPI – Unique Apps Count
 ![Unique Apps KPI](screenshot1.png)
 
@@ -46,7 +44,7 @@ The goal is to identify what drives successful apps in the Shopify ecosystem.
 ![Developer Responsiveness](screenshot5.png)
 
 ### 6–8. Bar Charts – Developer Performance & Responsiveness
-![Developer Responsiveness Bar Chart](BarChart(DeveloperResponsiveness_filtered).png)
+![Bar Chart 1](screenshot6.png)
 ![Bar Chart 2](screenshot7.png)
 ![Bar Chart 3](screenshot8.png)
 
