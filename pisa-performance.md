@@ -74,6 +74,11 @@ Pivot-style heatmap showing average performance in:
 Across years.
 
 ---
+[View Dashboard PDF](pisa-performance/PISA_Global_Performance_Explorer.pdf)
+
+[Download Dataset (XLSX)](pisa-performance/OECD PISA data clean .xlsx)
+
+---
 
 ## Files  
 - `OECD PISA data clean .xlsx`  
