@@ -3,7 +3,6 @@ layout: default
 title: Shopify App Store Analysis
 permalink: /projects/shopify/
 ---
----
 
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
