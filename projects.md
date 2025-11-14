@@ -121,7 +121,7 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 ### Looker Studio Project
 - **PISA Global Performance Explorer**  
   A multi-layer dashboard analyzing global educational outcomes, gender performance, and subject-level differences using OECD PISA data.  
-  [→ View Project Here](/projects/pisa/)
+  [→ View Project Here](pisa-performance.md)
 
 ### Power BI Project
 - **Shopify App Store Analysis**  
