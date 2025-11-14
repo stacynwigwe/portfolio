@@ -77,7 +77,7 @@ Across years.
 
 ## Files  
 - `OECD PISA data clean .xlsx`  
-- Dashboard PDF  
+- `PISA_Global_Performance_Explorer.pdf`
 - README  
 
 ---
