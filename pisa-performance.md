@@ -91,9 +91,9 @@ Here are the links to key files from the PISA Performance Analysis:
 
 ## Key Insights  
 
-- Math shows the **largest performance spread** between the highest and lowest scoring nations.  
-- Science remains the **most stable** subject across years.  
-- Reading shows **strong gender effects**, with girls outperforming boys in many countries.  
+- Math shows the largest performance spread between the highest and lowest scoring nations.  
+- Science remains the most stable subject across years.  
+- Reading shows strong gender effects, with girls outperforming boys in many countries.  
 - The dashboard provides a clear, interactive way to examine global educational patterns.
 
 ---
