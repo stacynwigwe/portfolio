@@ -13,7 +13,7 @@ Welcome to my portfolio of **systems, strategy,** and **storytelling** in action
 ---
 
 ### Technical Skills
-Python, SQL, Excel, Tableau, Power BI
+Python, SQL, Excel, Tableau, Power BI, Looker 
 
 ---
 
