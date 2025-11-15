@@ -47,13 +47,13 @@ Here are the key visuals from the Power BI Shopify App Analysis
 ![Developer Responsiveness](shopify-powerbi/Screenshot-05.png)
 
 ### 6. Bar Chart – Developer Quality
-![Developer Quality](shopify-powerbi/Screenshot-06.png)
+![Developer Quality](shopify-powerbi/Screenshot-08.png)
 
 ### 7. Bar Chart – Responsiveness Compared
 ![Responsiveness Compared](shopify-powerbi/Screenshot-07.png)
 
 ### 8. Bar Chart – Developer Performance (Filtered)
-![Developer Performance](shopify-powerbi/Screenshot-08.png)
+![Developer Performance](shopify-powerbi/Screenshot-06.png)
 
 ---
 
