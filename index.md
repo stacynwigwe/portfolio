@@ -27,7 +27,7 @@ Together, these hubs highlight how I connect logic with empathy, using data to i
 
 If you’d like to explore collaboration or see how these projects translate into organizational systems, you can reach me here:
 - 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)
-- [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
+- [LinkedIn](https://www.linkedin.com/in/stacy-nwigwe)  
 - ✉️ [stacynwigwe@icloud.com](mailto:stacynwigwe@icloud.com)
 
 ---
