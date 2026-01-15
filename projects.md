@@ -134,7 +134,7 @@ During my time (~ 400 hours) in the Business Intelligence Analyst program at Tri
 
 If you’d like to explore collaboration or see how these data projects translate into organizational systems, you can reach me here:
 - 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)
-- [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
+- [LinkedIn](https://www.linkedin.com/in/stacy-nwigwe)  
 - ✉️ [stacynwigwe@icloud.com](mailto:stacynwigwe@icloud.com)
 
 ---
