@@ -14,7 +14,7 @@ _I remove barriers between information and action. Across K-12 education, higher
 
 This portfolio is organized into two connected hubs that reflect how I approach systems design, blending logic with empathy, data with story, and people with technology:  
 
-- **[Main Data Projects Hub](./projects)** Here I explore analytics, business intelligence, and systems implementation through structured frameworks, SQL modeling, and workflow analysis. These projects demonstrate how I turn complex operational data into clear, decision-ready insights and scalable solutions.
+- **[Main Data Projects Hub](./projects)** Here I explore how structured data analysis and workflow frameworks can surface insights that inform better decisions and system design. These projects demonstrate my ability to move from raw information to clear, actionable outputs.
   
 - **[Product Experiments Hub](https://stacynwigwe.github.io/product-experiments/)** Here I translate systems thinking into human-centered strategies across product, marketing, and storytelling. Each project shows how empathy and structure combine to make technology more intuitive, accessible, and aligned with real-world use.
 
