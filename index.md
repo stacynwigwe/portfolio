@@ -3,13 +3,12 @@ layout: default
 title: Portfolio
 ---  
 ## Portfolio 
-Data + Strategy Analyst | Bridging Analytics + Systems + Storytelling  
+Systems & Operations | Turning Complex Information into Usable Resources  
 
 **About**
 
-_I turn ideas into impact. Whether it’s a brand, system, or story, I build the structure that helps potential grow. My work blends creativity with clarity, connecting data, design, and purpose to make complex things feel simple and human._
+_I remove barriers between information and action. Across K-12 education, higher education, and consulting, my work has centered on one question: How do we make complex information usable? I design systems, documentation, and resources that help people find what they need, trust what they find, and apply it with confidence. I believe organizations don't struggle because they lack knowledge — they struggle because that knowledge isn't organized, accessible, or easy to act on. That's the problem I solve._
 
-_I believe real growth happens when empathy meets execution, where vision turns into proof._
 
 **How to Explore This Portfolio**  
 
@@ -17,7 +16,7 @@ This portfolio is organized into two connected hubs that reflect how I approach 
 
 - **[Main Data Projects Hub](./projects)** Here I explore analytics, business intelligence, and systems implementation through structured frameworks, SQL modeling, and workflow analysis. These projects demonstrate how I turn complex operational data into clear, decision-ready insights and scalable solutions.
   
-- **[Product Experiments Hub](https://stacynwigwe.github.io/product-experiments/)** Here I translate systems thinking into human-centered strategies across product, marketing, and storytelling. Each experiment shows how empathy and structure combine to make technology more intuitive, accessible, and aligned with real-world use.
+- **[Product Experiments Hub](https://stacynwigwe.github.io/product-experiments/)** Here I translate systems thinking into human-centered strategies across product, marketing, and storytelling. Each project shows how empathy and structure combine to make technology more intuitive, accessible, and aligned with real-world use.
 
 Together, these hubs highlight how I connect logic with empathy, using data to inform strategy and systems design to make digital tools serve the people who use them.
 
