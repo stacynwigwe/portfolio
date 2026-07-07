@@ -28,9 +28,9 @@ _Certifications_
 _Degrees_
 - EdS, Education Specialist Curriculum Instruction Management & Administration,
 *Expected August 2026*
-- MS, Curriculum Instruction & Technology (October 2021)
-- MBEI, Master of Music Business & Entertainment Industries (December 2018)
-- BS, Computer Information Systems (July 2016)
+- MS, Curriculum Instruction & Technology 
+- MBEI, Master of Music Business & Entertainment Industries
+- BS, Computer Information Systems
   
 ---
 
