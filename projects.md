@@ -20,14 +20,14 @@ Python, SQL, Excel, Tableau, Power BI, Looker
 ### Education
 
 _Certifications_
-- Microsoft Dynamics 365 ERP Fundamentals (Finance & Operations) *in progress*
+- Lean Six Sigma, *Exam scheduled July 2026* 
 - ClickUp Workspace Administrator Certification (2025)
 - TripleTen Business Intelligence Analyst Certification (2024)
 - HubSpot Email Marketing Certification (2024)
   
 _Degrees_
-- EdS, Education Specialist Curriculum Instruction Management & Administration
-*in progress*
+- EdS, Education Specialist Curriculum Instruction Management & Administration,
+*Expected August 2026*
 - MS, Curriculum Instruction & Technology (October 2021)
 - MBEI, Master of Music Business & Entertainment Industries (December 2018)
 - BS, Computer Information Systems (July 2016)
