@@ -130,7 +130,7 @@ In addition to technical and analytics projects, I explore **systems thinking, s
 
 ---
 
-## 📫 Connect
+## Connect
 
 If you’d like to explore collaboration or see how these data projects translate into organizational systems, you can reach me here:
 - 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)
